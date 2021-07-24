@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulrahman008
+- 👋 Hi, I’m Abdulrahman Aljubaylan
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning ML & Python & R & New Tools 
 - 💞️ I’m looking to collaborate on the Data Science field
