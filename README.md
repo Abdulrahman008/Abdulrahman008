@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulrahman Aljubaylan
 - 👀 I’m interested in Data Science and Analytics And Governance
-- 🌱 I’m currently learning The Whole Data Life Cycle
-- 💞️ I’m looking to collaborate on the Data field
+- 🌱 I’m currently learning the whole Data lifecycle 
+- 💞️ I’m looking to collaborate on the field of Data
 - 📫 How to reach me | https://sa.linkedin.com/in/abdulrahman-aljubaylan-03a9b2182
 
 <!---
